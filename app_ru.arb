@@ -291,6 +291,7 @@
   "outboundUIPageAlpn": "ALPN",
   "outboundUIPageFingerprint": "fingerprint",
   "outboundUIPageEchConfigList": "echConfigList",
+  "outboundUIPageEchForceQuery": "echForceQuery",
   "outboundUIPageRealitySettings": "realitySettings",
   "outboundUIPageShortId": "shortId",
   "outboundUIPageMldsa65Verify": "mldsa65Verify",

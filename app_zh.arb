@@ -251,6 +251,7 @@
   "outboundUIPageIdExample": "86ffebe4-f529-471d-88e9-b5d24b9ab655",
   "outboundUIPageEncryption": "encryption",
   "outboundUIPageFlow": "flow",
+  "outboundUIPageReverse": "reverse",
   "outboundUIPageVmessSecurity": "security",
   "outboundUIPageMethod": "method",
   "outboundUIPagePassword": "password",

@@ -6,7 +6,7 @@ OneXray is internationalized based on the native Flutter solution. Please refer 
 
 ## Translation
 
-Currently OneXray provides support for English, Chinese, Russian and Persian. Russian and Persian are machine translated and may contain errors.
+Currently OneXray provides support for English, Chinese, Russian. Russian is machine translated and may contain errors.
 
 You can use the following editors to edit internationalization files.
 

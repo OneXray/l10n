@@ -1,4 +1,5 @@
 {
+  "@@locale": "ru",
   "validationNameRequired": "Имя обязательно для заполнения",
   "validationNameDuplicate": "Имя уже используется",
   "validationPriorityRequired": "Необходимо указать приоритет",

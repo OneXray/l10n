@@ -1,4 +1,5 @@
 {
+  "@@locale": "en",
   "validationNameRequired": "name required",
   "validationNameDuplicate": "name has existed",
   "validationPriorityRequired": "priority required",

@@ -446,5 +446,14 @@
   "appIconPageSelect": "Select an icon:",
   "appIconPageSetFailed": "Failed to set new App Icon",
   "toolboxPageTitle": "Toolbox",
-  "toolboxPageHideDockIcon": "Hide icon in Dock"
+  "toolboxPageHideDockIcon": "Hide icon in Dock",
+  "themePageTitle": "Theme",
+  "themePageSystem": "System",
+  "themePageLight": "Light",
+  "themePageDark": "Dark",
+  "languagePageTitle": "Language",
+  "languagePageSystem": "System",
+  "languagePageEnglish": "English",
+  "languagePageRussian": "Russian",
+  "languagePageChinese": "Chinese"
 }

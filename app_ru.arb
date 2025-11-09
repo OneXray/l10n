@@ -446,5 +446,14 @@
   "appIconPageSelect": "Выберите иконку:",
   "appIconPageSetFailed": "Не удалось установить иконку",
   "toolboxPageTitle": "Инструменты",
-  "toolboxPageHideDockIcon": "Скрыть иконку в Dock"
+  "toolboxPageHideDockIcon": "Скрыть иконку в Dock",
+  "themePageTitle": "Тема",
+  "themePageSystem": "Системная",
+  "themePageLight": "Светлая",
+  "themePageDark": "Тёмная",
+  "languagePageTitle": "Язык",
+  "languagePageSystem": "Системный",
+  "languagePageEnglish": "Английский",
+  "languagePageRussian": "Русский",
+  "languagePageChinese": "Китайский"
 }

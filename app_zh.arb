@@ -446,5 +446,14 @@
   "appIconPageSelect": "选择一个图标:",
   "appIconPageSetFailed": "设置图标失败",
   "toolboxPageTitle": "工具箱",
-  "toolboxPageHideDockIcon": "在程序坞中隐藏图标"
+  "toolboxPageHideDockIcon": "在程序坞中隐藏图标",
+  "themePageTitle": "主题",
+  "themePageSystem": "系统",
+  "themePageLight": "亮色",
+  "themePageDark": "暗色",
+  "languagePageTitle": "语言",
+  "languagePageSystem": "系统",
+  "languagePageEnglish": "英语",
+  "languagePageRussian": "俄语",
+  "languagePageChinese": "中文"
 }

@@ -413,6 +413,7 @@
   "subUpdatePageTitle": "Автоматическое обновление",
   "subUpdatePageEnable": "Включить",
   "subUpdatePageInterval": "Интервал",
+  "subUpdatePageInterval6Hours": "6 часов",
   "subUpdatePageInterval12Hours": "12 часов",
   "subUpdatePageIntervalOneDay": "Один день",
   "subUpdatePageIntervalThreeDays": "Три дня",

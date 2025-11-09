@@ -413,6 +413,7 @@
     "subUpdatePageTitle": "自動更新",
     "subUpdatePageEnable": "開啟",
     "subUpdatePageInterval": "間隔",
+    "subUpdatePageInterval6Hours": "6 小時",
     "subUpdatePageInterval12Hours": "12 小時",
     "subUpdatePageIntervalOneDay": "一天",
     "subUpdatePageIntervalThreeDays": "三天",

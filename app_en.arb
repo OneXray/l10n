@@ -413,6 +413,7 @@
   "subUpdatePageTitle": "Auto Update",
   "subUpdatePageEnable": "Enable",
   "subUpdatePageInterval": "Interval",
+  "subUpdatePageInterval6Hours": "6 hours",
   "subUpdatePageInterval12Hours": "12 hours",
   "subUpdatePageIntervalOneDay": "One day",
   "subUpdatePageIntervalThreeDays": "Three days",

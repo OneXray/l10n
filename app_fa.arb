@@ -369,6 +369,7 @@
     "settingPageSubmitIssue": "ثبت گزارش در گیت‌هاب",
     "settingPageCredits": "دست‌اندرکاران",
     "settingPagePrivacy": "سیاست حریم خصوصی",
+    "settingPageFooterTips": "این یک برنامه فقط-مشتری است. ما هیچ سرور یا خدمات VPN ارائه نمی‌دهیم. برای استفاده از آن باید پیکربندی سرور خود را ارائه دهید.",
     "tunSettingUIPageTitle": "تنظیمات Tun",
     "tunSettingUIPageTunName": "نام",
     "tunSettingUIPageTunPriority": "اولویت",

@@ -369,6 +369,7 @@
   "settingPageSubmitIssue": "在 Github 上提交 Issue",
   "settingPageCredits": "致谢",
   "settingPagePrivacy": "隐私协议",
+  "settingPageFooterTips": "本应用仅为客户端应用。我们不提供任何 VPN 服务器或服务。您必须提供您自己的服务器配置才能使用本应用。",
   "tunSettingUIPageTitle": "Tun 设置",
   "tunSettingUIPageTunName": "名称",
   "tunSettingUIPageTunPriority": "优先级",

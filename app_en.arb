@@ -369,6 +369,7 @@
   "settingPageSubmitIssue": "Submit an issue on Github",
   "settingPageCredits": "Credits",
   "settingPagePrivacy": "Privacy Policy",
+  "settingPageFooterTips": "This is a client-only app. We do not provide any VPN servers or services. You must provide your own server configuration to use it.",
   "tunSettingUIPageTitle": "Tun Setting",
   "tunSettingUIPageTunName": "name",
   "tunSettingUIPageTunPriority": "priority",

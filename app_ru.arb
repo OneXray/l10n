@@ -369,6 +369,7 @@
   "settingPageSubmitIssue": "Отправить вопрос на Github",
   "settingPageCredits": "Благодарности",
   "settingPagePrivacy": "Политика конфиденциальности",
+  "settingPageFooterTips": "Это приложение только для клиента. Мы не предоставляем никаких VPN-серверов или услуг. Вы должны предоставить свою собственную конфигурацию сервера для его использования.",
   "tunSettingUIPageTitle": "Настройки TUN",
   "tunSettingUIPageTunName": "Имя",
   "tunSettingUIPageTunPriority": "Приоритет",

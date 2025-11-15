@@ -78,8 +78,8 @@
   "firstRunPageInterfaceSection": "To ensure that Tun mode works properly, please select the network card correctly.",
   "homePageTitle": "Home",
   "homePageTabOutbound": "Outbound",
-  "homePageTabFull": "Full Config",
-  "homePageTabRaw": "Raw Config",
+  "homePageTabFull": "Config",
+  "homePageTabRaw": "JSON",
   "homePageOpenSettings": "Permission is denied. Open Settings to allow it?",
   "homePageSubscriptionDeleteWarning": "This will delete all configs from this subscribe link",
   "homePageSubscriptionCleanWarning": "This will delete all unreachable configs from this subscribe link",
@@ -418,6 +418,7 @@
   "subUpdatePageIntervalOneDay": "One day",
   "subUpdatePageIntervalThreeDays": "Three days",
   "subUpdatePageIntervalOneWeek": "One week",
+  "subUpdatePageAutoPing": "Auto Ping after Update",
   "geoDataListPageTitle": "Rule Set",
   "geoDataListPageSystem": "System",
   "geoDataListPageCustom": "Custom",
@@ -454,6 +455,7 @@
   "languagePageTitle": "Language",
   "languagePageSystem": "System",
   "languagePageEnglish": "English",
-  "languagePageRussian": "Russian",
-  "languagePageChinese": "Chinese"
+  "languagePageRussian": "Русский",
+  "languagePagePersian": "فارسی",
+  "languagePageChinese": "中文"
 }
